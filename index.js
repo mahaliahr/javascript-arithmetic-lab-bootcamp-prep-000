@@ -1,4 +1,4 @@
-function makeInt(){
+function makeInt(n){
   parseInt(n)
 }
 
